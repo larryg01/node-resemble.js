@@ -1,6 +1,6 @@
 {
   "name": "node-resemble-js",
-  "version": "0.2.0",
+  "version": "https://github.com/larryg01/node-resemble.js/archive/master.zip",
   "description": "Image analysis and comparison for nodejs",
   "main": "resemble.js",
   "scripts": {
