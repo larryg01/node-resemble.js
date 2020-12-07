@@ -6,9 +6,6 @@
   "scripts": {
     "test": "gulp test"
   },
-  "precommit": [
-    "build"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/lksv/node-resemble.js.git"
